@@ -6,6 +6,7 @@ public class Casting {
 		double a = 1.1;
 		double b = 1;
 		
+		System.out.println(a);
 		System.out.println(b);
 		
 		int c = (int) 1.1;
